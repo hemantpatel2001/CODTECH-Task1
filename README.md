@@ -36,3 +36,7 @@ Adding a Task: Type a task into the input field and click "Add".
 Editing a Task: Click the "Edit" button next to a task, modify the text in the input field, and click "Edit" again to save changes.
 Deleting a Task: Click the "Remove" button next to a task to delete it from the list.
 Persistence: All tasks are stored locally in the browser's localStorage, so they will persist across sessions until explicitly deleted.
+![Screenshot 2024-06-20 092118](https://github.com/hemantpatel2001/CODTECH-Task1/assets/142614426/9d286b35-d983-4174-91d1-6a67ab209a47)
+
+
+
